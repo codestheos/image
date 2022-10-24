@@ -1,5 +1,3 @@
-# image
-
 ## Feature
 
 - [x] Placeholder
